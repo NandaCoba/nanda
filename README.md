@@ -7,7 +7,7 @@
 ## 🌟 My Skills
 
 ### 🧠 Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,go,csharp,dotnet,py)](#)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,go,dotnet,py)](#)
 
 ### 🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react)](#)
